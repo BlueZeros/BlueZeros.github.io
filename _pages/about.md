@@ -53,11 +53,13 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 <span id='-educations'></span>
 # 📖 Educations
-- *2021.09 - present*, Ph.D. Student, School of Integrated Circuits(School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, Shanghai.
+- *2023.03 - present*, Ph.D. Student, School of Integrated Circuits(School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, Shanghai.
+- *2021.09 - 2023.03*, Master's students, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
 - *2017.09 - 2021.06*, Undergraduate, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
 
 <span id='-internships'></span>
 # 💻 Internships
 -*2024.04 - present*, Shanghai Artificial Intelligence Laboratory
+-*2025.04 - present*, Ant Group, Shanghai
 
 
