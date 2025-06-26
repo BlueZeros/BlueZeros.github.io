@@ -22,9 +22,11 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 🔬 I’m passionate about combining AI with real-world applications, especially in medical and clinical domains. My research focuses on:
 
-•	Large Language Models (LLMs)
+•	Large Language Models
 
-•	Clinical Natural Language Processing (Clinical NLP)
+•	Kowledge Argumentation
+
+•	Clinical Natural Language Processing
 
 📚 You can find my publications on <a href="https://scholar.google.com/citations?user=ErjimggAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
@@ -49,7 +51,7 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 <span id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2023.10* Champion of the 11th International Dialog System Technology Challenge (DSTC 11) Track 5. 
+- *2023.10* Champion of the 11th International Dialog System Technology Challenge (DSTC 11) Track 5. [[Report](https://www.seiee.sjtu.edu.cn/index_news/9112.html)]
 
 <span id='-educations'></span>
 # 📖 Educations
@@ -59,7 +61,7 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 <span id='-internships'></span>
 # 💻 Internships
--*2024.04 - present*, Shanghai Artificial Intelligence Laboratory
--*2025.04 - present*, Ant Group, Shanghai
+- *2024.04 - present*, Shanghai Artificial Intelligence Laboratory
+- *2025.04 - present*, Ant Group, Shanghai
 
 
